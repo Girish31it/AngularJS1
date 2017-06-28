@@ -1,0 +1,25 @@
+[
+   {
+      "name" : "Ram Dhawane",
+      "mail" : "ram.dhawane@fiserv.com",
+      "dept" : "FRMS"
+   },
+	
+   {
+      "name" : "Dadasaheb",
+      "mail" : "dadasaheb@fiserv.com",
+      "dept" : "FRMS"
+   },
+	
+   {
+      "name" : "Jay Padiya",
+      "mail" : "jay.padiya@fiserv.com",
+      "dept" : "FIP"
+   },
+	
+   {
+      "name" : "Bhagyashri",
+      "mail" : "Bhagyashri@fiserv.com",
+      "dept" : "FIP"
+   }
+]
