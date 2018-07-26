@@ -1,0 +1,19 @@
+entity TestEntity{
+recordId        Long,   
+lable           String
+title     String,   
+url  String,  
+showIcon Boolean, 
+icon     String,   
+divider   Boolean,  
+sortOrder       Integer, 
+type           String,  
+productId        Integer,
+userId		Integer
+}
+
+dto all with mapstruct
+
+// Set service options to all except few
+service all with serviceImpl
+// Set an angular suffix
